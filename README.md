@@ -14,5 +14,5 @@
   
 - 💕 Estou em um relacionamento sério  ...
 - 😄 com a linguagem JS em especial...
-- ⚡ a biblioteca p5.js.
+- ⚡ a biblioteca three.js.
 
