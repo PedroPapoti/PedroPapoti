@@ -12,7 +12,6 @@
   
   AUTOR: Pedro Papoti Calazans.
   
-- 💕 Estou em um relacionamento sério  ...
-- 😄 com a linguagem JS em especial...
-- ⚡ a biblioteca three.js.
+- Web developer ...
+- [Meus projetos aqui!!](https://pedro-studios.herokuapp.com)
 
