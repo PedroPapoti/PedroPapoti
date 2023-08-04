@@ -12,6 +12,5 @@
   
   AUTOR: Pedro Papoti Calazans.
   
-- Web developer ...
-- [Meus projetos aqui!!](https://pedro-studios.herokuapp.com)
+
 
