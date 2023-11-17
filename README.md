@@ -1,4 +1,4 @@
-### Só não apaixona 👋
+### Bem-Vindos ao Meu Perfil no GitHub 🚀
 
          Poema Dev ... 
     Todo dia me encanta
@@ -11,6 +11,8 @@
     se ela eu vou querer.
   
   AUTOR: Pedro Papoti Calazans.
+
+Sinta-se à vontade para explorar, colaborar e compartilhar ideias! Estou empolgado para tê-lo(a) aqui. 
   
 
 
